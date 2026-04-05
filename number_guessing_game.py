@@ -1,7 +1,7 @@
 import random
 
 def number_guessing_game():
-    print(" Welcome to Number Guessing Game!")
+    print("Welcome to Number Guessing Game!")
 
     while True:
         number = random.randint(1, 100)
