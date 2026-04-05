@@ -5,10 +5,10 @@ This is my first Python project.
 ## Features
 * Simple Calculator
 * Number Guessing Game
-- Guess a number between 1 and 100
-- Limited attempts
-- Hints (Too high / Too low)
-- Replay option
+  - Guess a number between 1 and 100
+  - Limited attempts
+  - Hints (Too high / Too low)
+  - Replay option
   
 
 ## Tech Used
