@@ -3,8 +3,13 @@
 This is my first Python project.
 
 ## Features
-- Simple Calculator
-- Number Guessing Game
+* Simple Calculator
+* Number Guessing Game
+- Guess a number between 1 and 100
+- Limited attempts
+- Hints (Too high / Too low)
+- Replay option
+  
 
 ## Tech Used
 - Python
@@ -12,7 +17,7 @@ This is my first Python project.
 ## How to Run
 
 1. Make sure Python is installed
-2. Run the file:
+2. Run any file:
 
 For Calculator:
 python calculator.py
