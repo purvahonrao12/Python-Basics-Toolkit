@@ -32,3 +32,14 @@ python number_guessing_game.py
 
 For Password Generator:
 python password_generator.py
+
+## Output
+
+### Calculator Output
+![Calculator](calculator_output.png)
+
+### Number Guessing Game Output
+![Game](game_output.png)
+
+### Password Generator Output
+![Password](password_output.png)
