@@ -5,7 +5,7 @@
 This project contains beginner Python programs like a Simple Calculator, Number Guessing Game, and Password Generator. It is created to practice basic Python concepts like loops, conditions, and user input.
 This is my first Python project showcasing basic program.
 
-## Features
+## 🚀 Features
 * Simple Calculator
   - Performs addition, subtraction, multiplication and division
 * Number Guessing Game
@@ -19,10 +19,10 @@ This is my first Python project showcasing basic program.
   - Replay option
   - Customizable password length
   
-## Tech Used
+## 🛠 Tech Used
 - Python
 
-## How to Run
+## ▶️ How to Run
 
 1. Make sure Python is installed
 2. Run any file:
