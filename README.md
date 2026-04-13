@@ -1,6 +1,9 @@
 # Python Basics Toolkit
 
-This is my first Python project.
+## About Project
+
+This project contains beginner Python programs like a Simple Calculator, Number Guessing Game, and Password Generator. It is created to practice basic Python concepts like loops, conditions, and user input.
+This is my first Python project showcasing basic program.
 
 ## Features
 * Simple Calculator
@@ -14,8 +17,8 @@ This is my first Python project.
   - Generate passwords with different options
   - Letters / Numbers / Special Characters
   - Replay option
+  - Customizable password length
   
-
 ## Tech Used
 - Python
 
